@@ -1,0 +1,7 @@
+E:\3 семестр\Об'єктно орієнтоване програмування\C#\lab1\lab1\bin\Debug\lab1.exe.config
+E:\3 семестр\Об'єктно орієнтоване програмування\C#\lab1\lab1\bin\Debug\lab1.exe
+E:\3 семестр\Об'єктно орієнтоване програмування\C#\lab1\lab1\bin\Debug\lab1.pdb
+E:\3 семестр\Об'єктно орієнтоване програмування\C#\lab1\lab1\obj\Debug\lab1.csprojAssemblyReference.cache
+E:\3 семестр\Об'єктно орієнтоване програмування\C#\lab1\lab1\obj\Debug\lab1.csproj.CoreCompileInputs.cache
+E:\3 семестр\Об'єктно орієнтоване програмування\C#\lab1\lab1\obj\Debug\lab1.exe
+E:\3 семестр\Об'єктно орієнтоване програмування\C#\lab1\lab1\obj\Debug\lab1.pdb
